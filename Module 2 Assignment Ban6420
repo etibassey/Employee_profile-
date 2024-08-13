@@ -1,0 +1,1 @@
+This project provides scripts in both Python and R for retrieving and processing employee data from a CSV file, exporting the data to a CSV file, and compressing it into a zip folder.
